@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+107
+'cordial saludo, en este programa vamos a descubrir el area de un rectangulo a partir de sus base y altura'
+4
+1
+43
+'Ingrese la base y altura de su rectangulo'
+5
+1
+3
+b,a
+6
+1
+1
+x
+3
+b*a
+4
+1
+32
+'El area de su rectangulo es ',x
+1

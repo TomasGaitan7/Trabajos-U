@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+84
+'Con este programa vamos a calcular el promedio de tres numeros que dese el usuario'
+4
+1
+46
+'Ingrese los tres numeros que desea promediar'
+5
+1
+5
+a,b,c
+6
+1
+1
+x
+9
+(a+b+c)/3
+4
+1
+39
+'El promedio de sus tres numeros es ',x
+1
