@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+96
+'Buenas tardes, con este programa vamos a calcular el area de  un circulo a partir de su radio' 
+4
+1
+50
+'ingrese el valor del radio del circulo en metros'
+5
+1
+1
+r
+6
+1
+1
+a
+10
+3.14*(r^2)
+4
+1
+51
+'El area de su circulo es ' ,a,' metrros cuadrados'
+1
