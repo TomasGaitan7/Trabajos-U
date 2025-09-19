@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'Ingrese un año para que nuestro programa averigue si es bisiesto'
+5
+1
+1
+a
+7
+0
+1
+12
+a MOD  4 = 0
+7
+0
+1
+11
+a MOD 100=0
+4
+1
+29
+'su año ',a,' no es bisiesto'
+13
+7
+0
+1
+11
+a MOD 400=0
+13
+4
+1
+26
+'su año ',a,' es bisiesto'
+13
+13
+13
+4
+1
+26
+'su año ',a,' es bisiesto'
+13
+1
